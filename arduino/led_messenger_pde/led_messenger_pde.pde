@@ -8,9 +8,9 @@
 // Instantiate Messenger object with the message function and the default separator (the space character)
 Messenger message = Messenger(); 
 
-int redPin = 11;
-int bluePin = 10;
-int greenPin = 9;
+int redPin = 5;
+int bluePin = 3;
+int greenPin = 6;
 
 int redVal;
 int greenVal;
